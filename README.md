@@ -38,7 +38,6 @@ Result:
 - Optimal quantity: ~472 units  
 - Expected profit: ~$231/day :contentReference[oaicite:1]{index=1}  
 
----
 
 ### 4. Joint Price & Quantity Optimization (Quadratic Programming)
 - Modeled demand as a function of price  
@@ -49,7 +48,7 @@ Result:
 - Optimal quantity: ~535 units  
 - Profit improvement: +1.27% :contentReference[oaicite:2]{index=2}  
 
----
+
 
 ### 5. Model Validation (Bootstrap Analysis)
 - Performed 200 bootstrap simulations  
@@ -67,7 +66,7 @@ Key Insight:
 - Joint optimization outperforms traditional models consistently  
 - Data-driven pricing leads to measurable profit improvement  
 
----
+
 
 ## Tech Stack
 - Python (NumPy, Pandas)
